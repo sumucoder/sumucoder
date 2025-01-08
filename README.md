@@ -4,7 +4,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumucoder&label=Profile%20views&color=0e75b6&style=flat" alt="sumucoder" /> </p>
-
+< img align="right" alt="coding" src="![web designer, developer, programmer](https://github.com/user-attachments/assets/10c5e32a-0dff-4629-84f6-5ebfe6057188)
+">
 - 🌱 I’m currently learning **JavaScript &Bootstrap**
 
 - 💬 Ask me about **JavaScript &Bootstrap**
